@@ -3,13 +3,13 @@
 ## **Description:**
 I've implemented a **4 Bit Adder**, inspired by [Ben Eater's Video on Youtube](https://www.youtube.com/watch?v=wvJc9CZcvBc).
 
-## **Pictures:**
+## **My Experience-**
 
-![Breadboard circuit picture](/assets/img/4_bit_adder.jpg)
+This was a great **introduction** and **hands-on experience** with *Digital Circuits.*
 
-![4 Bit Adder scematics](/assets/img/4_bit_adder_scematics.png)
+Ben Eater's understanding with how things work really inspires me. 
 
-![Full Adder scematics](/assets/img/full_adder_scematics.png)
+His 8 bit breadboard computer is just too cool to not build it. Do check out **[his content on youtube](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)** and his dedicated **[reddit](https://www.reddit.com/r/beneater)** which is filled with enthusiasts.
 
 ## **What's in here:**
 
@@ -29,10 +29,11 @@ Note that you will need to import **Logi7400ic** library which you can find [her
 + Resistors
 + Breadboard wires
 
-## **My Experience-**
 
-This was a great Introduction and Hands-on experience with Digital Circuits.
+## **Pictures:**
 
-Ben Eater's understanding with how things work really inspires me. 
+![Breadboard circuit picture](/assets/img/4_bit_adder.jpg)
 
-His 8 bit breadboard computer is just too cool to not build it. Do check out **[his content on youtube](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)** and his dedicated **[reddit](https://www.reddit.com/r/beneater)** which is filled with enthusiasts.
+![4 Bit Adder scematics](/assets/img/4_bit_adder_scematics.png)
+
+![Full Adder scematics](/assets/img/full_adder_scematics.png)
