@@ -13,7 +13,7 @@ His 8 bit breadboard computer is just too cool to not build it. Do check out **[
 
 ## **What's in here:**
 
-In this repo you'll find the Logic circuit scematics of the [4 Bit adder](/resourses/4_bit_adder.circ). 
+In this repo you'll find the Logic circuit scematics of the [4 Bit adder](/Resourses/4_bit_adder.circ). 
 
 I've made it using [original Logisim](http://www.cburch.com/logisim/) but i recommend you to use logisim-evolution which you can find [here](https://github.com/logisim-evolution/logisim-evolution). 
 
