@@ -5,7 +5,7 @@ I've implemented a **4 Bit Adder**, inspired by [Ben Eater's Video on Youtube](h
 
 ## **My Experience-**
 
-This was a great **introduction** and **hands-on experience** with *Digital Circuits.*
+This was a great **introduction** and **hands-on experience** with **Digital Circuits.**
 
 Ben Eater's understanding with how things work really inspires me. 
 
