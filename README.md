@@ -1,5 +1,7 @@
 # **4-Bit-adder-Ripple-Carry**
 
+![Breadboard circuit picture](/assets/img/4_bit_adder.jpg)
+
 ## **Description:**
 I've implemented a **4 Bit Adder**, inspired by [Ben Eater's Video on Youtube](https://www.youtube.com/watch?v=wvJc9CZcvBc).
 
@@ -30,9 +32,7 @@ Note that you will need to import **Logi7400ic** library which you can find [her
 + Breadboard wires
 
 
-## **Pictures:**
-
-![Breadboard circuit picture](/assets/img/4_bit_adder.jpg)
+## **Logisim schematics:**
 
 ![4 Bit Adder scematics](/assets/img/4_bit_adder_scematics.png)
 
